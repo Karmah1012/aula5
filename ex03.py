@@ -7,3 +7,5 @@ for x in range(1,11) :
     else:
         intervalofora = intervalofora + 1
 print(f"Números dentro do intervalo: {intervalodentro} e números fora: {intervalofora}")
+#########################################################################################
+
